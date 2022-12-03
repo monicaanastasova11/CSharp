@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\bin\Debug\net6.0\Primer.exe
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\bin\Debug\net6.0\Primer.deps.json
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\bin\Debug\net6.0\Primer.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\bin\Debug\net6.0\Primer.dll
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\bin\Debug\net6.0\Primer.pdb
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\obj\Debug\net6.0\Primer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\obj\Debug\net6.0\Primer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\obj\Debug\net6.0\Primer.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\obj\Debug\net6.0\Primer.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\obj\Debug\net6.0\Primer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\obj\Debug\net6.0\Primer.dll
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\obj\Debug\net6.0\refint\Primer.dll
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\obj\Debug\net6.0\Primer.pdb
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\obj\Debug\net6.0\Primer.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Програмиране\Demo\test\Primer\obj\Debug\net6.0\ref\Primer.dll
